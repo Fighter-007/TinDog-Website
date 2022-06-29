@@ -4,9 +4,9 @@ Various sections in the website:
 
 1. Title/Home
 2. Features of the App
-Testimonials
-Pricing
-Download Links
-Contact
+3. Testimonials
+4. Pricing
+5. Download Links
+6. Contact
 
 Exposure: HTML, CSS, Bootstrap, Font Awesome
