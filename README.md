@@ -2,8 +2,8 @@ Created this website for a hypothetical startup, "TinDog", the perfect match-mak
 
 Various sections in the website:
 
-Title/Home
-Features of the App
+1. Title/Home
+2. Features of the App
 Testimonials
 Pricing
 Download Links
